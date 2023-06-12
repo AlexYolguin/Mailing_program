@@ -1,0 +1,6 @@
+__pycache__/*
+Configs/*
+*secret*
+r[0-9].ipynb
+*_old*
+*.log
