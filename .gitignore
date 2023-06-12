@@ -1,5 +1,6 @@
 __pycache__/*
 Configs/*
+!Configs/.gitkeep
 *secret*
 r[0-9].ipynb
 *_old*
