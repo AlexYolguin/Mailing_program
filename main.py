@@ -1,6 +1,4 @@
 import json
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
 
 from src.message import message
 from src.utils import (
